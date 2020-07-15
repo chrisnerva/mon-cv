@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Mon Curriculum Vitae</title>
+        <title> Mon Curriculum Vitae </title>
         <?php include("../fragments/head.php") ?>
     </head>
     <body>
@@ -65,8 +65,8 @@
                             <p>Informatique</p>
                            <ul>
                                 <li>Ciel et EBP gestion comptable et commerciale, paye,</li>
-                                <li>HTML5, CSS3, SASS (Sublime Text, Netbeans).</li>
-                                <li>PHP, JQUERY, AJAX, BOOSTRAP, WORDPRESS, FOUNDATION.</li>
+                                <li>HTML5, CSS3, SASS, SEO? Adobe XD (Sublime Text, Netbeans).</li>
+                                <li>PHP, SQL, Objet (POO/PDO), MVC, JavaScript, JQUERY, AJAX, BOOSTRAP, WORDPRESS, FOUNDATION.</li>
                                 <li>Word, Excel</li>
                             </ul>    
                     </div>
