@@ -64,7 +64,7 @@
                             <p>Informatique</p>
                            <ul>
                                 <li>Ciel et EBP gestion comptable et commerciale, paye,</li>
-                                <li>HTML5, CSS3, SASS, Responsive, Adobe XD (Sublime Text, Netbeans).</li>
+                                <li>HTML5, CSS3, SASS, Responsive, Adobe XD, IDE(Sublime Text, Netbeans).</li>
                                 <li>PHP, SQL, Objet (POO/PDO), MVC, JavaScript, JQuery, Ajax, Bootstrap, Wordpress, Foundation, CMS.</li>
                                 <li>Word, Excel.</li>
                             </ul>    
