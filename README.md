@@ -1,8 +1,7 @@
 # mon-cv
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title> Mon Curriculum Vitae </title>
+        <meta charset="UTF-8">    
         <?php include("../fragments/head.php") ?>
     </head>
     <body>
